@@ -22,3 +22,58 @@ A simple Python script that can classify questions as **factual**, **opinion**, 
 
 ```bash
 pip install sympy
+
+Run the script:
+
+python question_classifier.py
+
+
+Type your question when prompted and see the response.
+
+Example Usage
+
+Math question:
+
+12 + 8
+
+
+Output:
+
+I recognized it as math. The result is: 20
+
+
+Factual question:
+
+Who is the CEO of Google?
+
+
+Output:
+
+This looks like a factual question. You’d usually answer it with data or a knowledge source.
+
+
+Opinion question:
+
+What do you think about AI?
+
+
+Output:
+
+This seems like an opinion-based question. Different people may have different answers.
+
+Future Improvements
+
+Integrate with AI/LLM APIs for smarter responses.
+
+Turn it into a web API using FastAPI or Flask.
+
+Improve math solving for more complex expressions.
+
+
+---
+
+If you want, I can now **give you the exact steps to push both `question_classifier.py` and this polished README to GitHub** in one go, so your repo is fully ready for Internshala.  
+
+Do you want me to do that?
+
+

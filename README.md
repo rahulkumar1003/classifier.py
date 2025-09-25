@@ -70,10 +70,5 @@ Turn it into a web API using FastAPI or Flask.
 Improve math solving for more complex expressions.
 
 
----
-
-If you want, I can now **give you the exact steps to push both `question_classifier.py` and this polished README to GitHub** in one go, so your repo is fully ready for Internshala.  
-
-Do you want me to do that?
 
 
